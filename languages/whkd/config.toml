@@ -1,0 +1,4 @@
+name = "whkd"
+grammar = "whkd"
+path_suffixes = ["whkdrc"]
+line_comments = ["# "]
